@@ -1,7 +1,7 @@
 name: wwww
 on:
   schedule:
-    - cron: '47 */8 * * *' # Run every
+    - cron: '7 */8 * * *' # Run every
 jobs:
   build:
 
